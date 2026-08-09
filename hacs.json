@@ -1,6 +1,7 @@
 {
   "name": "WLED Control Card",
-  "content_in_root": true,
+  "filename": "wled-control-card.js",
+  "content_in_root": fales,
   "render_readme": true,
   "homeassistant": "2024.7.0"
 }
